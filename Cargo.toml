@@ -4,6 +4,6 @@ version = "0.1.0"
 edition = "2025"
 description = "A test library I made"
 license = "MIT"
-repository = 
+repository = "https://github.com/DOEfodder/testFunction" 
 
 [dependencies]
