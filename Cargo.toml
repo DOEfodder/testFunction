@@ -1,5 +1,5 @@
 [package]
-name = "hello_lib"
+name = "hello_lib_skyler_test"
 version = "0.1.0"
 edition = "2024"
 description = "A test library I made"
