@@ -6,4 +6,6 @@ description = "A test library I made"
 license = "MIT"
 repository = "https://github.com/DOEfodder/testFunction" 
 
-[dependencies]
+[lib]
+name = "hello_lib_skyler_test"
+path = "src/lib.rs"
