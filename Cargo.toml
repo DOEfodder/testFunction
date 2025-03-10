@@ -1,0 +1,9 @@
+[package]
+name = "hello_lib"
+version = "0.1.0"
+edition = "2025"
+description = "A test library I made"
+license = "MIT"
+repository = 
+
+[dependencies]
